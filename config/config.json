@@ -7,17 +7,9 @@
     "port": 3000,
     "dialect": "mysql"
   },
-  "test": {
-    "username": "root",
-    "password": "password",
-    "database": "burgers_db",
-    "host": "127.0.0.1",
-    "port": 3001,
-    "dialect": "mysql"
-  },
   "production": {
-    "dialect": "mysql",
-    "use_env_variable": "JAWSDB_URL"
+    "use_env_variable": "JAWSDB_URL",
+    "dialect": "mysql"
   }
 }
 
