@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "bruger App",
   "main": "server.js",
-  "use_env_variable": "JAWSDB_URL",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
