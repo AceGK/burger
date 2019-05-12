@@ -1,0 +1,27 @@
+body {
+	background:lightgray;
+	margin:50px;
+}
+
+li {
+  padding: 15px;
+  background: #fff;
+	list-style: none;
+	list-style-type: none;
+}
+
+ul {
+	list-style: none;
+	list-style-type: none;
+	padding-left:0px;
+}
+
+.burger-form {
+  padding: 25px;
+  margin: 25px;
+  background: #fff;
+}
+
+.inline {
+    display: inline;
+}
